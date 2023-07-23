@@ -28,10 +28,10 @@ The self-describing aspects of the protocols have a few stipulations:
 
 The Multiformats Project describes a series of protocols. Currently, the following protocols exist:
 
-- [multiaddr](./multiaddr)  <small>(WIP)</small> - self-describing <span class="mfc mfc-multiaddr">network addresses</span>
+- [multiaddr](https://github.com/multiformats/multiaddr)  <small>(WIP)</small> - self-describing <span class="mfc mfc-multiaddr">network addresses</span>
 - [multibase](https://github.com/multiformats/multibase)  <small>(WIP)</small> - self-describing <span class="mfc mfc-multibase">base encodings</span>
 - [multicodec](https://github.com/multiformats/multicodec) - self-describing <span class="mfc mfc-multicodec">serialization</span>
-- [multihash](./multihash) - self-describing <span class="mfc mfc-multihash">hashes</span>
+- [multihash](https://github.com/multiformats/multihash) - self-describing <span class="mfc mfc-multihash">hashes</span>
 
 <!--
 - [multikey](https://github.com/ipfs/specs/issues/58) <small>(WIP)</small> - self-describing <span class="mfc mfc-multikey">keys and proofs</span>
